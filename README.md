@@ -106,7 +106,10 @@ This project demonstrates how a Unix-like shell works internally — combining s
 ---
 
 **Author:** Panchal Prince 23BIT169
+
 **Language:** C  
+
 **Platform:** Linux / WSL
+
 
 
